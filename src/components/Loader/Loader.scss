@@ -1,0 +1,12 @@
+.Loader {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex: 1;
+  transition: all 1s ease-in;
+
+  > .Spinner {
+    width: 75px;
+    height: 75px;
+  }
+}
